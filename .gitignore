@@ -1,7 +1,5 @@
-imdb_assignment_2.zip
-imdb_assignment_2.sql
+indexing/data
+indexing/sql
 
-imdb_full_wdt.zip
-imdb_full_wdt.sql
+!indexing/sql/queries.sql
 
-Visualization
